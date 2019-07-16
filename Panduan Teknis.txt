@@ -1,0 +1,12 @@
+Program python "Prediksi pendonor darah dengan algoritma KNN" bisa di RUN pada file knntest.py
+dengan panduan sebagai berikut :
+1. Menginstall Pycharm Community 2018.2.4
+2. Menginstall Anaconda3 (5.1.0 - Windows x86_64)
+3. Import Package (pada pycharm : file->setting->Project->Project Interpreter->Install(alt+insert)->cari package yang diperlukan)
+
+Menggunakan python 3.6 (anaconda) tested.
+Package Include : -scikit-learn(ada warning jika menggunakan versi 0.18 keatas )
+		  -pandas
+dataset (data.csv)
+
+Letakkan dataset dan file .py pada satu folder

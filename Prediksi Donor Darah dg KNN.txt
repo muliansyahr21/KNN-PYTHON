@@ -1,0 +1,17 @@
+LAPORAN FINAL PROJECT
+DATA MINING
+
+Prediksi Pendonor Darah Dengan Metode 
+K-Nearest Neighbor
+
+Disusun:
+1.    Faishal Fadhlulloh		(16.11.0836)
+2.    Muliansyah Rasdakim 	(16.11.0815)
+ 
+Dosen Pengampu :
+Joang Ipmawati, M.Kom
+
+ 
+16 S1 INFORMATIKA 13
+UNIVERSITAS AMIKOM YOGYAKARTA
+2018
